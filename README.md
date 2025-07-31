@@ -93,7 +93,7 @@ This project was completed during my **Machine Learning Internship at Skillcraft
 
 ### 📢 Connect With Me
 
-[LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sourav-nath-715170320/))
+[LinkedIn](https://www.linkedin.com/in/sourav-nath-715170320/)
 
 ---
 
